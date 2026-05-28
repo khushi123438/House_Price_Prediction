@@ -3,8 +3,8 @@
 A simple Machine Learning project to predict house prices using a housing dataset and regression algorithm.
 
 ## 📂 Project Files
-- `house_price_prediction.ipynb` - ML model code
-- `dataset.csv` - Dataset used for training and testing
+- `house_price_predictor.ipynb` - ML model code
+- `HousePricePrediction.csv` - Dataset used for training and testing
 
 ## 🛠️ Technologies Used
 - Python
